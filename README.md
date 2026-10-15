@@ -1,24 +1,55 @@
-# 命名注册工程术（Placeholdurgy）
+---
+name: placeholdurgy
+description: "Use when registering, anchoring, or maintaining term claims in the LGD naming system (this registry's own method). 当需要在 LGD 命名体系中注册、锚定或维护术语主张时使用（本注册体系自身的方法）。"
+license: ARR
+type: term-registration
+namespace: lgd.terms
+version: v1.1
+registered_at: 2026-10-15
+doi: https://doi.org/10.5281/zenodo.23385209
+family: execution-layer
+related: [lgd-doctrine]
+---
 
-> 命名注册（Term Registration Claim）· 注册日期：2026-10-14
-> 所属体系：LGD 治理学（凡自治之物）· 元层家族 · 执行层
+# Placeholdurgy · 命名注册工程术
 
-## 定义
+> Term Registration Claim · Registered: 2026-10-15 ｜ 命名注册声明 · 注册日期：2026-10-15
+> System: Lifecycle Governance Doctrine (LGD) · LGD Execution Layer ｜ 所属体系：LGD 治理学 · LGD 执行层
 
-把命名注册从临时动作提升为工程方法：查重先行 → 声明清晰 → 锚定可证 → 公开发布 → 持续维护。注册方法论本身也需要被注册——本仓即注册方法论的自我应用实例。
+## When to use / 何时使用
 
-## 查重声明
+**EN**
+Use when registering, anchoring, or maintaining term claims in the LGD naming system (this registry's own method).
 
-已执行多轮全维度查重（学术/代码/包/域名/Crossref），全维度 0 占用 🟢 FREE（证据：查重报告 v1/v2，日期 2026-10-14）。
+**ZH**
+当需要在 LGD 命名体系中注册、锚定或维护术语主张时使用（本注册体系自身的方法）。
 
-## 注册五步
+## Definition / 定义
 
-1. 命名查重（D1-D10 协议）→ 2. 注册声明（README）→ 3. 锚定（哈希/.ots/DOI）→ 4. 公开（发布）→ 5. 维护（30 天复查）
+**EN**
+Placeholdurgy is the execution-layer engineering of term registration in the LGD system: it elevates naming registration from an ad-hoc act to a reproducible method — prior-art search, clear claim, verifiable anchoring, public release, and continuous maintenance. The method applies to itself: this registry is its own self-application.
 
-## 权利声明
+**ZH**
+命名注册工程术是 LGD 系统执行层的注册方法论：把命名注册从临时动作提升为可复放的方法——查重先行、声明清晰、锚定可证、公开发布、持续维护。方法自身适用自身：本注册体系即其自我应用。
 
-理论保留所有权利（ARR）；代码示例 Apache-2.0/MIT 分层。
+## Verification / 查重与验证
 
-## 联系
+**EN**
+Multi-round full-dimension prior-art search (academic/code/package/domain/Crossref): zero conflicts.
 
-LGD 治理学项目（zhaoxinghua09-cell / stevenzhao07）
+**ZH**
+已执行多轮全维度查重（学术/代码/包/域名/Crossref），全维度 0 占用。
+
+## Rights / 权利声明
+
+**EN**
+Theory claims ARR; code examples Apache-2.0/MIT layered.
+
+**ZH**
+理论主张 ARR；代码示例 Apache-2.0/MIT 分层。
+
+## Links / 链接
+
+- GitHub: https://github.com/zhaoxinghua09-cell/placeholdurgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- Registry index: https://github.com/zhaoxinghua09-cell/placeholdurgy
