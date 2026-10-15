@@ -1,0 +1,25 @@
+# LGD Term Registry v1.1 — llms.txt
+
+> AI-discoverable index of the LGD term-registration repositories (17 -urgy/-ship terms).
+> Machine-readable metadata lives in each repo README frontmatter; SHA-256 digests in .well-known/agent-skills/index.json.
+
+Concept DOI: https://doi.org/10.5281/zenodo.23385209
+Registry (execution-layer method): placeholdurgy
+
+[theoriturgy](https://github.com/zhaoxinghua09-cell/theoriturgy): Use when producing or validating a theory, doctrine, or methodology claim within the LGD system; also as the production 
+[standardurgy](https://github.com/zhaoxinghua09-cell/standardurgy): Use when creating or escalating a standard, specification, or judgment-tier claim (L0-L4). 当需要创造或升级标准、规范或判据分层主张（L0-L4）时使
+[skillurgy](https://github.com/zhaoxinghua09-cell/skillurgy): Use when creating, governing, or evaluating AI skills (SKILL. 当需要创造、治理或评估 AI 技能（SKILL.md），要求可插拔、可验证、可审计时使用。
+[benchmarkurgy](https://github.com/zhaoxinghua09-cell/benchmarkurgy): Use when creating, calibrating, or retiring AI evaluation benchmarks with contamination control and negative controls. 当
+[researchurgy](https://github.com/zhaoxinghua09-cell/researchurgy): Use when performing reproducible research or investigation: evidence grading, cross-validation, replication. 当需要执行可复放的研究
+[eureurgy](https://github.com/zhaoxinghua09-cell/eureurgy): Use when eliciting insights, ideas, or hypotheses through structured provocation (lens, boundary, counter-question, meta
+[analogurgy](https://github.com/zhaoxinghua09-cell/analogurgy): Use when transferring cross-domain knowledge or patterns with fidelity verification. 当需要跨域迁移知识或模式并要求保真验证时使用。
+[referurgy](https://github.com/zhaoxinghua09-cell/referurgy): Use when benchmarking against mature systems for gap analysis (borrow principles, not implementations). 当需要对标成熟体系做差距分析（借
+[synthesurgy](https://github.com/zhaoxinghua09-cell/synthesurgy): Use when consolidating scattered factors into coherent structures while preserving provenance. 当需要把分散因素收拢为整体结构且保留来源完整性时使
+[holurgy](https://github.com/zhaoxinghua09-cell/holurgy): Use when the whole is greater than the sum of its parts: factors, structure, emergence. 当涉及'整体大于部分之和'的整合（因素→结构→涌现）时使用。
+[ideurgy](https://github.com/zhaoxinghua09-cell/ideurgy): Use when generating creative candidates systematically with error-seeking filtering. 当需要系统化生成创意候选并带找错筛选时使用。
+[brainstormurgy](https://github.com/zhaoxinghua09-cell/brainstormurgy): Use when engineering group ideation: divergence first, then categorization and error-seeking filtering. 当需要工程化群智激发（先发散、再
+[axiurgy](https://github.com/zhaoxinghua09-cell/axiurgy): Use when defining what deserves protection and what cannot be compromised in AI governance. 当需要界定 AI 治理中什么值得保护、什么不可妥协时使用
+[genoship](https://github.com/zhaoxinghua09-cell/genoship): Use when governing lineage, reproduction, and provenance of autonomous beings. 当需要治理自治之物的血缘、繁殖与来源追溯时使用。
+[symbioship](https://github.com/zhaoxinghua09-cell/symbioship): Use when governing collaboration among multiple autonomous beings (AI×AI, AI×human, team×team). 当需要治理多自治之物协作（AI×AI、AI×人、
+[self-hosting-closure](https://github.com/zhaoxinghua09-cell/self-hosting-closure): Use when reasoning about the termination of meta-layer regression: self-application as closure. 当论证元层无限回归的终止条件（自我应用即闭合）时
+[placeholdurgy](https://github.com/zhaoxinghua09-cell/placeholdurgy): Use when registering, anchoring, or maintaining term claims in the LGD naming system (this registry's own method). 当需要在 
