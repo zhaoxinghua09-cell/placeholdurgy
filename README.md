@@ -11,6 +11,8 @@ family: execution-layer
 related: [lgd-doctrine]
 ---
 
+[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/placeholdurgy)
+
 # Placeholdurgy · 命名注册工程术
 
 ![LGD score](badge.svg "LGD machine-readability score")
