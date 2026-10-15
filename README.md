@@ -1,7 +1,7 @@
 ---
 name: placeholdurgy
 description: "Use when registering, anchoring, or maintaining term claims in the LGD naming system (this registry's own method). 当需要在 LGD 命名体系中注册、锚定或维护术语主张时使用（本注册体系自身的方法）。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
