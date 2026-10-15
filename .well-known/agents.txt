@@ -1,0 +1,3 @@
+agent-name: placeholdurgy
+contact: https://github.com/zhaoxinghua09-cell/placeholdurgy
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
